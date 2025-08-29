@@ -1,0 +1,28 @@
+.contact-section {
+  background-color: #f3f9f6;
+  padding: 60px 30px;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: 2rem;
+  color: #386641;
+  margin-bottom: 10px;
+}
+
+.contact-section p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-size: 1rem;
+  color: #2c3e50;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
